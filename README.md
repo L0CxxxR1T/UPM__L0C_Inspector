@@ -24,7 +24,7 @@
 `Add package from git URL` にて下記URLをコピー&ペーストしてください。
 
 ```
-https://github.com/L0CxxxR1T/UPM__L0C-Inspector.git?path=Packages/works.xxxl0c.inspector
+https://github.com/L0CxxxR1T/UPM__L0C_Inspector.git?path=Packages/works.xxxl0c.inspector
 ```
 
 ---
